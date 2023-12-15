@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer specializing in React.js. With a knack for creating interactive and user-friendly web applications, I'm constantly exploring new technologies and techniques to enhance user experiences.
 
-<img align="right" alt="GIF" src="https://github.com/is1ruslan/Readme/blob/main/code.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/is1ruslan/Readme/blob/main/code.gif" width="500" height="300" />
 
 ### About Me
 - 🌱 Currently enhancing my skills in **React.js, Redux, and modern frontend technologies**.
@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,webpack,npm)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,webpack)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
 ### Let's Connect
 <div id="badges">
