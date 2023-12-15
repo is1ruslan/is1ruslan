@@ -1,6 +1,6 @@
 # Hello, I'm Ruslan Ibragimov 👋
 
-## Frontend Developer | React Enthusiast | Technology Innovator
+## Frontend Developer | React Enthusiast | Technology Fan
 
 Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer specializing in React.js. With a knack for creating interactive and user-friendly web applications, I'm constantly exploring new technologies and techniques to enhance user experiences.
 
@@ -14,18 +14,14 @@ Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer 
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
-<br/>
-
-- **Tools**: Git, Webpack, NPM
-
-### My Latest Projects
-- [Project Name](GitHub link) - A brief description of what the project does.
-- [Another Project](GitHub link) - Short summary of the project.
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=git,webpack,npm)](https://skillicons.dev)
 
 ### Let's Connect
 <div id="badges">
   <a href="https://www.linkedin.com/in/ruslan-ibragimov-18100127b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/isruslan">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
