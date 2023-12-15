@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer specializing in React.js. With a knack for creating interactive and user-friendly web applications, I'm constantly exploring new technologies and techniques to enhance user experiences.
 
-<img align="right" alt="GIF" src="https://github.com/is1ruslan/Readme/blob/main/code.gif" width="400" height="180" />
+<img align="right" alt="GIF" src="https://github.com/is1ruslan/is1ruslan/blob/main/code.gif" width="400" height="240" />
 
 ### About Me
 - 🌱 Currently enhancing my skills in **React.js, Redux, and modern frontend technologies**.
