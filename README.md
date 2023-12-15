@@ -16,6 +16,13 @@ Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer 
 
 [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,webpack)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
 
+### Top 10% on Codewars
+<div id="badges">
+  <a href="https://www.codewars.com/users/isruslanib/stats">
+    <img src="https://www.codewars.com/users/isruslanib/badges/large" alt="Codewars Badge"/>
+  </a>
+</div>
+
 ### Let's Connect
 <div id="badges">
   <a href="https://www.linkedin.com/in/ruslan-ibragimov-18100127b/">
