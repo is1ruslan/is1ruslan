@@ -12,9 +12,11 @@ Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer 
 - 🎯 Focused on **building responsive and accessible web applications**.
 - 📚 Committed to lifelong learning and professional growth in the world of web development.
 
-### Technologies I Work With
-- **Languages**: JavaScript (ES6+), HTML5, CSS3, TypeScript
-- **Frameworks/Libraries**: React.js, Redux, Bootstrap 5, Sass
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=bootstrap,sass)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)
+<br/>
+
 - **Tools**: Git, Webpack, NPM
 
 ### My Latest Projects
