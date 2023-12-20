@@ -25,8 +25,8 @@ Welcome to my GitHub profile! I'm a dedicated and passionate frontend developer 
 
 ### Let's Connect
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ruslan-ibragimov-18100127b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/isruslan1">
+    <img src="https://img.shields.io/badge/LinkedIn-admiral?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/isruslan">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
